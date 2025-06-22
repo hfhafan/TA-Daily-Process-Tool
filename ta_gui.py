@@ -412,7 +412,7 @@ karena source code memerlukan lisensi khusus.
         # GitHub link button
         def open_github():
             import webbrowser
-            webbrowser.open("https://github.com/hadifauzanhanif/TA-Daily-Process-Tool")
+            webbrowser.open("https://github.com/hfhafan/TA-Daily-Process-Tool")
         
         github_btn = tk.Button(content_frame, text="🔗 GitHub Repository", 
                               command=open_github,

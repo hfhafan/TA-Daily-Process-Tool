@@ -27,7 +27,7 @@ Tool GUI untuk memproses data TA (Timing Advance) daily dari file CSV Ericsson d
 
 1. Clone repository ini:
 ```bash
-git clone https://github.com/hadifauzanhanif/TA-Daily-Process-Tool.git
+git clone https://github.com/hfhafan/TA-Daily-Process-Tool.git
 cd TA-Daily-Process-Tool
 ```
 
@@ -151,7 +151,7 @@ Hal ini dilakukan untuk menjaga keamanan sistem produksi.
 
 **Author**: Hadi Fauzan Hanif  
 **Email**: hadifauzanhanif@gmail.com  
-**GitHub**: [hadifauzanhanif](https://github.com/hadifauzanhanif)
+**GitHub**: [hfhafan](https://github.com/hfhafan)
 
 ## 🐛 Known Issues
 
