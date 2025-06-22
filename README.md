@@ -11,6 +11,17 @@ Tool GUI untuk memproses data TA (Timing Advance) daily dari file CSV Ericsson d
 
 ## 🚀 Features
 
+## Preview
+- Main Menu:
+  
+![Main Menu](https://github.com/user-attachments/assets/98511ec1-553c-46e0-a541-440d8f5669f9)
+
+- Clear Database Menu:
+
+  ![Clear Database](https://github.com/user-attachments/assets/4b505a18-c642-4d6d-83c1-ed33b50d6079)
+
+
+
 - **GUI Interface**: Interface yang mudah digunakan dengan tkinter
 - **File Processing**: Support untuk single file CSV atau multiple files dalam folder
 - **Database Integration**: Upload otomatis ke database (MariaDB/MySQL)
