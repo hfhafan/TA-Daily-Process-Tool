@@ -20,6 +20,10 @@ Tool GUI untuk memproses data TA (Timing Advance) daily dari file CSV Ericsson d
 
   ![Clear Database](https://github.com/user-attachments/assets/4b505a18-c642-4d6d-83c1-ed33b50d6079)
 
+- Preview on Excel:
+
+  ![Excel](https://github.com/user-attachments/assets/55aaffd6-8228-4d34-998c-7152b1acd1d0)
+
 
 
 - **GUI Interface**: Interface yang mudah digunakan dengan tkinter
