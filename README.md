@@ -2,6 +2,13 @@
 
 Tool GUI untuk memproses data TA (Timing Advance) daily dari file CSV Ericsson dengan interface yang user-friendly.
 
+## 🚀 Quick Start - Download Executable
+**Download ready-to-use version**: [Download TA Daily Process Tool](http://bit.ly/3GanRLq)
+- ✅ No Python installation required
+- ✅ No dependencies setup needed  
+- ✅ Ready to run executable (.exe)
+- ✅ Includes Excel analysis tools
+
 ## 🚀 Features
 
 - **GUI Interface**: Interface yang mudah digunakan dengan tkinter
@@ -24,6 +31,14 @@ Tool GUI untuk memproses data TA (Timing Advance) daily dari file CSV Ericsson d
 - psutil
 
 ## 📦 Installation
+
+### Quick Download (Executable)
+🚀 **Download ready-to-use executable**: [Download TA Daily Process Tool](http://bit.ly/3GanRLq)
+- Tidak perlu install Python atau dependencies
+- Langsung jalankan file .exe
+- Termasuk tools Excel untuk analisis TA
+
+### Manual Installation (Source Code)
 
 1. Clone repository ini:
 ```bash
@@ -68,7 +83,13 @@ TA-Daily-Process-Tool/
 
 ## 🔧 Usage
 
-### Running the Application
+### Option 1: Download Executable (Recommended)
+1. Download dari: [TA Daily Process Tool Executable](http://bit.ly/3GanRLq)
+2. Extract file yang didownload
+3. Jalankan file `.exe` yang tersedia
+4. Tidak perlu install Python atau dependencies
+
+### Option 2: Run from Source Code
 
 ```bash
 python ta_gui.py
