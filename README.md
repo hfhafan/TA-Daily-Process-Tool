@@ -87,7 +87,6 @@ TA-Daily-Process-Tool/
 ├── ta_gui.py                    # Main GUI application
 ├── TA_daily_process_module.py   # Core processing module
 ├── app_config.py               # Configuration settings
-├── pack_to_exe_nuitka.bat      # Script untuk build executable
 ├── setup.iss                   # Inno Setup script
 ├── requirements.txt            # Python dependencies
 ├── excel/                      # Sample Excel tools
@@ -147,21 +146,6 @@ CREATE TABLE tainit_cell_day (
 );
 ```
 
-## 🛠️ Building Executable
-
-Untuk membuat file executable (.exe):
-
-1. Install Nuitka:
-```bash
-pip install nuitka
-```
-
-2. Run build script:
-```bash
-pack_to_exe_nuitka.bat
-```
-
-Atau gunakan Inno Setup dengan file `setup.iss` untuk membuat installer.
 
 ## ⚠️ Important Notes
 
